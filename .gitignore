@@ -1,0 +1,7 @@
+# Make this file FIRST, before you create .env.
+
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
